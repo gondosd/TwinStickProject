@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TwinStickProject/Intermediate/
+TwinStickProject/Saved/Config/Windows/Engine.ini
+TwinStickProject/Saved/
